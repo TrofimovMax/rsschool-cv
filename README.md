@@ -1,2 +1,2 @@
 # rsschool-cv
-some descript
+this is some description
